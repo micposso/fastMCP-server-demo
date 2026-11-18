@@ -1,0 +1,30 @@
+[
+  {
+    "name": "NimbusNoodle Support",
+    "market": "AI customer support for small retailers",
+    "strengths": ["Human handoff", "Order-status templates", "Simple setup"],
+    "weaknesses": ["Limited language coverage", "No voice support"],
+    "website": "https://nimbusnoodle.example"
+  },
+  {
+    "name": "PixelPuff Assist",
+    "market": "AI customer support for small retailers",
+    "strengths": ["Human handoff", "Multilingual chat", "Ticket tagging"],
+    "weaknesses": ["Requires manual knowledge-base updates", "No voice support"],
+    "website": "https://pixelpuff.example"
+  },
+  {
+    "name": "WobbleWidget Care",
+    "market": "AI customer support for software teams",
+    "strengths": ["Human handoff", "Developer documentation search", "Ticket tagging"],
+    "weaknesses": ["Technical setup required", "Limited language coverage"],
+    "website": "https://wobblewidget.example"
+  },
+  {
+    "name": "MoonMuffin Help",
+    "market": "AI customer support for appointment-based services",
+    "strengths": ["Appointment FAQ templates", "Simple setup", "Voice support"],
+    "weaknesses": ["Limited integrations", "Requires manual knowledge-base updates"],
+    "website": "https://moonmuffin.example"
+  }
+]

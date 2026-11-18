@@ -1,0 +1,5 @@
+# Standalone FastMCP package, with current decorator and Client APIs.
+fastmcp==4.2.1
+# Testing only; no LLM or external service is used by the application.
+pytest==9.2.0
+pytest-asyncio==1.5.0
